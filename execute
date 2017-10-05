@@ -1,1 +1,1 @@
-echo test
+ps aux
