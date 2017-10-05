@@ -1,1 +1,1 @@
-echo lmao
+echo lmaog
